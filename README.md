@@ -1,2 +1,3 @@
-# learning_c
-C snippets with sh*t performance and bad readablity
+# learning_fp
+
+FP snippets with sh*t performance and bad readablity
